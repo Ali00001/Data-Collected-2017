@@ -86,7 +86,7 @@ Field 41-Hybrid Calibration Panel:
 
 <hr>
 
-<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_SWIR_20170802.jpg" width="600"> 
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_SWIR_20170802.jpg" width="900"> 
 
 <hr>
 
@@ -102,7 +102,7 @@ SWIR
 
 <hr>
 
-<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_SWIR_20170808.jpg" width="600"> 
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_SWIR_20170808.jpg" width="900"> 
 
 <hr>
 
@@ -110,7 +110,7 @@ SWIR
 
 <hr>
 
-<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_20170814.jpg" width="600"> 
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_20170814.jpg" width="900"> 
 
 <hr>
 
