@@ -120,7 +120,7 @@ SWIR
 
 <hr>
 
-<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_20170820.jpg" width="600"> 
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_20170820.jpg" width="900"> 
 
 SWIR
 
@@ -133,10 +133,22 @@ SWIR
 
 <hr>
 
-<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_20170823.jpg" width="600"> 
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_20170823.jpg" width="900"> 
 
 SWIR
 
 <img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_SWIR_20170823.jpg" width="900"> 
+
+<hr>
+
+2017/08/30
+
+<hr>
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_20170830.jpg" width="900"> 
+
+SWIR
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_SWIR_20170830.jpg" width="900"> 
 
 <hr>
