@@ -122,6 +122,10 @@ SWIR
 
 <img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_20170820.jpg" width="600"> 
 
+SWIR
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_SWIR_20170820.jpg" width="900"> 
+
 <hr>
 
 
@@ -130,5 +134,9 @@ SWIR
 <hr>
 
 <img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_20170823.jpg" width="600"> 
+
+SWIR
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_SWIR_20170823.jpg" width="900"> 
 
 <hr>
