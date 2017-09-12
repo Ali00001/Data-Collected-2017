@@ -152,3 +152,25 @@ SWIR
 <img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_SWIR__20170830.jpg" width="900"> 
 
 <hr>
+
+2017/09/10
+
+<hr>
+
+Field 41:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_20170910.jpg" width="900"> 
+
+SWIR
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_SWIR__20170910.jpg" width="900"> 
+
+Field 42:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F42_20170910.jpg" width="900"> 
+
+SWIR
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F42_SWIR__20170910.jpg" width="900"> 
+
+<hr>
