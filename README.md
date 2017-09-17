@@ -181,7 +181,7 @@ SWIR
 <hr>
 
 
-<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_AllF41_20170915.jpg" width="900"> 
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_AllF41__20170915.jpg" width="900"> 
 
 SWIR
 
