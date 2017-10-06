@@ -193,7 +193,7 @@ SWIR
 
 Field 41:
 
-<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_20170924.jpg" width="900"> 
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_20170924.jpg" width="300"> 
 
 Field 42:
 
