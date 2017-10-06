@@ -186,3 +186,39 @@ SWIR
 SWIR
 
 <img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_AllF41_SWIR_20170915.jpg" width="900"> 
+
+2017/09/24
+
+<hr>
+
+Field 41:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_20170924.jpg" width="900"> 
+
+Field 42:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F42_20170924.jpg" width="900"> 
+
+<hr>
+
+2017/09/30
+
+<hr>
+
+Field 41:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_20170930.jpg" width="900"> 
+
+SWIR
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41_SWIR_20170930.jpg" width="900"> 
+
+Field 42:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F42_20170930.jpg" width="900"> 
+
+SWIR
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F42_SWIR_20170930.jpg" width="900"> 
+
+<hr>
