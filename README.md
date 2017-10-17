@@ -61,6 +61,7 @@ F41:
 <img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41C_20170704.jpg" width="600"> 
 
 F42:
+
 <img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F42_20170704.jpg" width="600"> 
 
 <hr>
@@ -155,6 +156,8 @@ SWIR:
 
 2017/08/08
 
+<hr>
+
 F41:
 
 <img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41C_20170808.jpg" width="600"> 
@@ -175,24 +178,176 @@ SWIR:
 
 2017/08/14
 
+<hr>
+
+F41:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41C_20170814.jpg" width="600"> 
+
+SWIR:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_SWIR_F41CW_20170814.jpg" width="900"> 
+
+F42:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F42_20170814.jpg" width="600"> 
+
+SWIR:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_SWIR_F42_20170814.jpg" width="900"> 
+
+<hr>
 
 2017/08/20
 
+<hr>
+
+F41:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41CW_20170820.jpg" width="600"> 
+
+SWIR:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_SWIR_F41CW_20170820.jpg" width="900"> 
+
+F42:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F42_20170820.jpg" width="600"> 
+
+SWIR:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_SWIR_F42_20170820.jpg" width="900"> 
+
+<hr>
 
 2017/08/23
 
+<hr>
+
+F41:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41CW_20170823.jpg" width="600"> 
+
+SWIR:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_SWIR_F41CW_20170823.jpg" width="900"> 
+
+F42:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F42_20170823.jpg" width="600"> 
+
+SWIR:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_SWIR_F42_20170823.jpg" width="900"> 
+
+<hr>
 
 2017/08/30
 
+<hr>
+
+F41:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41CW_20170830.jpg" width="600"> 
+
+SWIR:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_SWIR_F41CW_20170830.jpg" width="900"> 
+
+F42:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F42_20170830.jpg" width="600"> 
+
+SWIR:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_SWIR_F42_20170830.jpg" width="900"> 
+
+<hr>
 
 2017/09/10
 
+<hr>
+
+F41:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41CW_20170910.jpg" width="600"> 
+
+SWIR:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_SWIR_F41CW_20170910.jpg" width="900"> 
+
+F42:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F42_20170910.jpg" width="600"> 
+
+SWIR:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_SWIR_F42_20170910.jpg" width="900"> 
+
+<hr>
 
 2017/09/15
 
+<hr>
+
+F41:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41CW_20170915.jpg" width="600"> 
+
+SWIR:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_SWIR_F41CW_20170915.jpg" width="900"> 
+
+F41 East:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41CW_20170915.jpg" width="600"> 
+
+SWIR:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_SWIR_F41E_20170915.jpg" width="900"> 
+
+<hr>
 
 2017/09/24
 
+<hr>
+
+F41 East:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41E_20170924.jpg" width="600"> 
+
+F42:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F42_20170924.jpg" width="600"> 
+
+<hr>
 
 2017/09/30
 
+<hr>
+
+F41:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41CW_20170930.jpg" width="600"> 
+
+SWIR:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_SWIR_F41CW_20170930.jpg" width="900"> 
+
+F41 East:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41E_20170930.jpg" width="600"> 
+
+SWIR:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_SWIR_F41E_20170930.jpg" width="900"> 
+
+F42:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F42_20170930.jpg" width="600"> 
+
+SWIR:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_SWIR_F42_20170930.jpg" width="900"> 
+
+<hr>
