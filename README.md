@@ -1,6 +1,5 @@
 # Data-Collected-2017
 
-Field 41-Hybrid Calibration Panel:
 ===================================================================
 
 
