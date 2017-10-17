@@ -2,12 +2,21 @@
 
 ===================================================================
 
-2017/06/21
+2017/06/01
 
 <hr>
 F42:
 
-<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F42_20170621.jpg" width="600"> 
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F42_20170601.jpg" width="600"> 
+
+<hr>
+
+2017/06/16
+
+<hr>
+F42:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F42_20170616.jpg" width="600"> 
 
 <hr>
 
@@ -19,6 +28,7 @@ F41:
 <img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41CW_20170621.jpg" width="600"> 
 
 F42:
+
 <img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F42_20170621.jpg" width="600"> 
 
 <hr>
