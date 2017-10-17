@@ -120,6 +120,10 @@ F41:
 
 <img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41C_20170730.jpg" width="600"> 
 
+F41 West:
+
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41W_20170730.jpg" width="600"> 
+
 F42:
 
 <img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F42_20170730.jpg" width="600"> 
@@ -300,7 +304,7 @@ SWIR:
 
 F41 East:
 
-<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41CW_20170915.jpg" width="600"> 
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41E_20170915.jpg" width="600"> 
 
 SWIR:
 
