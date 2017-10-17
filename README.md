@@ -82,7 +82,7 @@ F41:
 <hr>
 F41:
 
-<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41C_20170715.jpg" width="900"> 
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41C_20170715.jpg" width="600"> 
 
 <hr>
 
