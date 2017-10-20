@@ -25,7 +25,7 @@ F42:
 <hr>
 F41:
 
-<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41CW_20170621.jpg" width="600"> 
+<img src="https://github.com/Ali00001/Data-Collected-2017/blob/master/Mosaic_F41C_20170621.jpg" width="600"> 
 
 F42:
 
